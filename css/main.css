@@ -11221,7 +11221,7 @@ header.header-image .header-content .header-content-inner h5 {
   }
   #main-slider .carousel-caption p, #main-slider .carousel-caption h1 {
     color: #ffffff;
-    text-transform: capitalize;
+    text-transform: uppercase;
   }
   #main-slider .carousel-caption h1 {
     font-size: 21px;
@@ -11371,7 +11371,7 @@ header.header-image .header-content .header-content-inner h5 {
 .t108-footer {
   background-color: #222222;
 }
-.t108-footer .t108-footer .social-icons li a {
+.t108-footer .footer-below .container .list-inline li a {
   font-size: 25px;
 }
 .t108-footer .footer-above {
